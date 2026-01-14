@@ -1,0 +1,9 @@
+{
+  "name": "Hackathon Platform",
+  "short_name": "Hackathon",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "A modern platform for hosting and managing hackathons and coding events"
+}

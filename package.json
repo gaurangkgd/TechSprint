@@ -1,0 +1,37 @@
+{
+  "name": "hackathon-platform-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@types/node": "20.9.0",
+    "@types/react": "18.2.37",
+    "@types/react-dom": "18.2.15",
+    "@types/three": "^0.179.0",
+    "autoprefixer": "10.4.16",
+    "firebase": "^12.1.0",
+    "next": "^14.2.31",
+    "postcss": "8.4.31",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.5",
+    "three": "^0.179.1",
+    "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "eslint": "8.53.0",
+    "eslint-config-next": "14.0.3"
+  },
+  "description": "",
+  "main": "debug-env.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
